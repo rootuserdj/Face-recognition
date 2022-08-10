@@ -11,8 +11,14 @@ It is an advanced, automated, and sensible identification system that can identi
 # Required Labraries
 
  opencv
+
+
  facial-recognation
+
+
  numpy
+
+
  pyttx3
  
 
