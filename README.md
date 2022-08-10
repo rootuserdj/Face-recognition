@@ -43,7 +43,7 @@ It is an advanced, automated, and sensible identification system that can identi
 # Show Your Attandance on your browser
 
 
-   hppt://<yourip>:8080
+   hppt://yourip:8080
  
 
 
