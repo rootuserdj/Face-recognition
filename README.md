@@ -40,7 +40,7 @@ It is an advanced, automated, and sensible identification system that can identi
    3.10
 
 
-# Show Your Attandance on your browser
+# Show Your Attandance in your browser
 
 
    hppt://yourip:8080
